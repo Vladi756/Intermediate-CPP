@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int numberGrid[5][2] ={ {1, 2},             // Two dimensional arrays usually aren't defined like this, this is merely to help illustrate how they work.
-                            {3, 4},
+                            {3, 4},             // Two [] to identify two dimensions.
                             {5, 6},
                             {7, 8},
                             {9, 10},
