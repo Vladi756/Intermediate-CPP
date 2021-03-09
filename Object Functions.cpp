@@ -8,13 +8,13 @@ class Student {
         string major;
         double GPA;
 
-        Student(string aName, string aMajor, double aGpa){
+        Student(string aName, string aMajor, double aGpa) {
             name = aName;
             major = aMajor;
             GPA = aGpa;
         }
 
-        bool hasHonors(){       // General function which returns different things depending on what object calls it.
+        bool hasHonors() {       // General function which returns different things depending on what object calls it.
             if(GPA >= 3.5)
                 return true;
             else
