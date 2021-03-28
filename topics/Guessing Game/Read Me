@@ -1,0 +1,2 @@
+This is a program coded using some of the topics in this repository. 
+It features the use of Arrays, functions, arrays being passed into functions, and managing the input stream by using cin.delete() and cin.ignore(). 
