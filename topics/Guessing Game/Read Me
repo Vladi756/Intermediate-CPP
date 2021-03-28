@@ -1,2 +1,4 @@
 This is a program coded using some of the topics in this repository. 
 It features the use of Arrays, functions, arrays being passed into functions, and managing the input stream by using cin.delete() and cin.ignore(). 
+
+Additionally, it also features some simpler topics such as if statements, for and do/while loops, as wel as switch statements. If you are unfamiliar with these go to my profile and work through the "CPP Basics" repo first before coming back here.
